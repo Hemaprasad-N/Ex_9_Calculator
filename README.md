@@ -22,9 +22,11 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 /*
+```
 Program to print the text “calculator operation”.
 Developed by: HEMAPRASAD N
 Registeration Number : 212222040054
+```
 */
 activity_main.xml:
 ```
